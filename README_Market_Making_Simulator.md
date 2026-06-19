@@ -40,8 +40,7 @@ where: - S(t) = current price - μ = drift - σ = volatility - Z =
 standard normal random variable
 
 ------------------------------------------------------------------------
-## Output
-![Simulation Results](screenshots/Figure_1.png)
+
 
 ## Performance Metrics
 
